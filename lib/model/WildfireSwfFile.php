@@ -28,8 +28,8 @@ class WildfireSwfFile extends WildfireDiskFile{
                 <!--[if !IE]>-->
                 <object type="application/x-shockwave-flash" data="'.$this->get($media_item).'" width="'.$width.'" height="'.$height.'">
                 <!--<![endif]-->
-                  <a href="http://www.adobe.com/go/getflashplayer">
-                    <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
+                  <a href="https://www.adobe.com/go/getflashplayer">
+                    <img src="https://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
                   </a>
                 <!--[if !IE]>-->
                 </object>
